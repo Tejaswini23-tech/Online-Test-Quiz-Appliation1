@@ -1,0 +1,2 @@
+# Online-Test-Quiz-Appliation1
+This application conducts online tests ( Quiz) there will be 10 MCQ questions . After submitting the test , the candidate will get instant result on their screen.Developed Graphical User Interface (GUI) in Abstract Window Toolkit( AWT) and Java Swing. There will be 10 questions to play. User can bookmark any question for the reconsideration while going to result. When you reach the last question, the next button will be hidden and when you click on the result button then new pop will raise and shows you marks.
